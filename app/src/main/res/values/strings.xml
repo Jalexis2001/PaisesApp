@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">PaisesApp</string>
+    <string name="pais">Honduras</string>
+    <string name="capital">Tegucigalpa</string>
+    <string name="extension">112492</string>
+
+    <string name="titulo">Paises de Centroamerica</string>
+    <string name="bienvenida">Gracias por mantenerse informados con nuestra app</string>
+    <string name="Honduras">Honduras</string>
+    <string name="Guatemala">Guatemala</string>
+    <string name="Salvador">El Salvador</string>
+    <string name="Nicaragua">Nicaragua</string>
+    <string name="CR">Costa Rica</string>
+
+</resources>
